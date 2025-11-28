@@ -12,9 +12,34 @@
 
 # Integration steps for UI Kit Builder
 
-Follow these steps to integrate it into your existing React project:
+# CometChat Internship Assignment – React UI Kit
 
-For Next.js integration, please refer to our <a href="https://www.cometchat.com/docs/ui-kit/react/builder-integration-nextjs" target="_blank">step-by-step guide</a>.
+This project is my implementation of the CometChat React UI Kit as part of the CometChat Internship Assignment.  
+The goal of the project was to explore the CometChat dashboard, locate the UI Kit, download it, integrate it into a React application, and run it successfully.
+
+The app currently displays the default CometChat UI including chat interface components.  
+After setup, the UI renders properly and works as expected.
+
+---
+
+## What this project does
+
+- Uses CometChat React UI Kit  
+- Shows ready-made chat UI components  
+- Runs locally with realtime messaging structure  
+- Proves successful integration of CometChat services  
+
+Simply put:  
+**This project demonstrates that the CometChat UI Kit works successfully inside a React environment.**
+
+---
+
+## How to Run
+
+```bash
+npm install
+npm start
+
 
 ## 1. Install dependencies in your app
 
