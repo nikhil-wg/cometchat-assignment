@@ -31,6 +31,11 @@ After setup, the UI renders properly and works as expected.
 
 Simply put:  
 **This project demonstrates that the CometChat UI Kit works successfully inside a React environment.**
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7e9b9696-a45b-4c8b-b605-c23aae0c540c" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/72ede232-4ab1-48ab-931f-359eb009fdb2" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/97a8a9eb-2b0a-4638-bb59-f247fd48ab4a" />
 
 ---
 
